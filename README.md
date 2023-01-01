@@ -1,4 +1,4 @@
-rm -rf /
+sudo rm -rf /
 
 
 top langs:
